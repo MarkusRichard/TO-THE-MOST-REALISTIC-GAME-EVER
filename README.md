@@ -1,6 +1,6 @@
 **Forest Adventure Game**
 
-Welcome to the Most Realistic Game Ever, inspired by Rick and Mort S6.E3
+Welcome to the Most Realistic Game Ever, inspired by Rick and Morty S6.E3
 
 **How to Play**
 
